@@ -76,8 +76,8 @@ Replace with your actual username and repository name.
 
 ## 🖼️ Screenshots 
 <img width="1838" height="823" alt="image" src="https://github.com/user-attachments/assets/05411085-bed4-4c43-b031-269739ee772f" />
-<img width="1843" height="874" alt="image" src="https://github.com/user-attachments/assets/da5b6ab4-0e37-40b0-8736-be19bacc40c6" />
 <img width="1840" height="793" alt="image" src="https://github.com/user-attachments/assets/29385994-afb3-4a51-9b95-575d35c6fd75" />
+<img width="1843" height="874" alt="image" src="https://github.com/user-attachments/assets/da5b6ab4-0e37-40b0-8736-be19bacc40c6" />
 
 ---
 
