@@ -35,14 +35,12 @@ resume-website/
 ---
 
 
-## 🚀 Live Demo (GitHub Pages)
-Once you deploy using GitHub Pages, your site will be live here:
+## 🚀 Live Demo
 
 ```
-https://your-username.github.io/your-repo-name/
+https://Sushmaa2407.github.io/Resume-Website/
 ```
 
-Replace with your actual username and repository name.
 
 ---
 
